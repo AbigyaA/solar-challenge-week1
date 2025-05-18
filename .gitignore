@@ -1,0 +1,13 @@
+# Virtual envs and cache
+venv/
+__pycache__/
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+
+# IDEs
+.vscode/
